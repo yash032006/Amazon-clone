@@ -9,6 +9,8 @@ https://yash032006.github.io/Amazon-clone/
 
 ---
 
+> **Educational Project Disclaimer:** This repository is a personal HTML and CSS learning project inspired by Amazon's website. It is not the official Amazon website and is not affiliated with, endorsed by, or sponsored by Amazon.
+
 ## 🚀 Features
 
 * Amazon-style header section
