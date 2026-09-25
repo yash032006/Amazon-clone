@@ -267,3 +267,21 @@ ul a{
 
 
 }
+
+/* Educational project disclaimer */
+
+.educational-disclaimer {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 14px 20px;
+    background-color: #fff3cd;
+    color: #664d03;
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.5;
+    border-bottom: 2px solid #ffc107;
+}
+
+.educational-disclaimer strong {
+    font-weight: 700;
+}
